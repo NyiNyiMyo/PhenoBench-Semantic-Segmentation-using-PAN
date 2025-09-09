@@ -1,1 +1,2 @@
-# PhenoBench-Semantic-Segmentation-using-PAN
+# PhenoBench Semantic Segmentation using PAN
+
